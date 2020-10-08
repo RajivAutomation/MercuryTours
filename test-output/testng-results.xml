@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27338" started-at="2017-07-07T03:42:48Z" finished-at="2017-07-07T03:43:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27338" started-at="2017-07-07T03:42:48Z" finished-at="2017-07-07T03:43:15Z">
+      <class name="testing.TC_01">
+        <test-method status="PASS" signature="BM()[pri:0, instance:testing.TC_01@15530b9]" name="BM" is-config="true" duration-ms="17823" started-at="2017-07-06T22:42:48Z" finished-at="2017-07-06T22:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="TM()[pri:0, instance:testing.TC_01@15530b9]" name="TM" duration-ms="7817" started-at="2017-07-06T22:43:06Z" finished-at="2017-07-06T22:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TM -->
+        <test-method status="PASS" signature="CM()[pri:0, instance:testing.TC_01@15530b9]" name="CM" is-config="true" duration-ms="1659" started-at="2017-07-06T22:43:14Z" finished-at="2017-07-06T22:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CM -->
+      </class> <!-- testing.TC_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
